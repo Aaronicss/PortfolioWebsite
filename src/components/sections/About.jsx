@@ -20,7 +20,6 @@ const About = () => {
                 <p className="ml-6">Information and Communications Technology</p>
                 <h1 className="p-5 text-white text-3xl font-bold">Awards</h1>
                 <p className="ml-6">Dean’s Lister at DLSU-D</p>
-                <p className="ml-6">Dean’s Lister at DLSU-D</p>
                 <p className="ml-6 pb-6">Best in Computer Hardware and Software at PHCM</p>
                 <div>
 
